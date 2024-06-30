@@ -1,6 +1,6 @@
 # Canvas items
 
-[See demo here](google.com 'See demo here')
+[See demo here](https://canvas-items.vercel.app)
 
 ## Installation
 
